@@ -4,4 +4,4 @@ for i in range(10):
     arr.append(n % 42)
 
 arr = set(arr)
-print(lent(arr))
+print(len(arr))
